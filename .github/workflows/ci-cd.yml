@@ -7,7 +7,7 @@ on:
     branches: [ main ]
 
 env:
-  IMAGE_NAME: <DOCKERHUB_USERNAME>/myapp
+  IMAGE_NAME: fall948/myapp
 
 jobs:
   build-and-push:
